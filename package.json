@@ -1,0 +1,13 @@
+{
+ "name": "apigw_octo_nodejs",
+ "version": "0.0.1",
+ "description": "API GW POC with Nodejs",
+ "author": "Paulo Castro <paulof@gmail.com>",
+ "main": "server.js",
+ "scripts": {
+   "start": "node server.js"
+ },
+ "dependencies": {
+   "express": "^4.13.3"
+ }
+}
